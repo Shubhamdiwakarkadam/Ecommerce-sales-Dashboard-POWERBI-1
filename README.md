@@ -1,6 +1,6 @@
-# Madhav Ecommerce Sales Dashboard
+# Mahadev Ecommerce Sales Dashboard
 
-Owner of Madhav Store wants us to help them create a dashboard to track and analyze their online sales across India. 
+Owner of Mahadev Store wants us to help them create a dashboard to track and analyze their online sales across India. 
 
 ## Screenshot
 
