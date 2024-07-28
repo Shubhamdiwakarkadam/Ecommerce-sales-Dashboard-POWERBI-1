@@ -6,7 +6,7 @@ Brief description of what this project does and its purpose.
 
 Here is a screenshot of the project:
 
-![Project Screenshot](BI_pro_1.png)
+![Project Screenshot](./BI_pro_1.png)
 
 ## Installation
 
